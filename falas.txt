@@ -1,0 +1,63 @@
+Intro:
+                      The Survivor
+Pressione qualquer tecla para jogar...
+
+Durante a missão de reconhecimento 
+ao recém descoberto Planeta Z137...
+tudo ia bem... até que... repentinamente 
+houve perda de comunicação 
+com o robo de exploração R17...
+
+Fase 1:
+Texto 1
+1 Sistemas funcionando novamente!
+2 Hmm... meus pertences... desapareceram :(
+3 Preciso das minhas botas antigravitacionais...
+4 onde será que elas estão?
+5 Pressione qualquer tecla para continuar...
+
+Texto 2
+1 Agora posso pular normalmente,
+2 apertando a tecla < ESPAÇO > ou < Q >.
+3 Detectei inimigos por perto...
+4 preciso encontrar minha arma!
+5 Pressione qualquer tecla para continuar...
+
+Texto 3
+1 Agora posso eliminar inimigos 
+2 apertando a tecla < CTRL > ou < W >.
+3 Tenho que sair desse laboratório 
+4 antes que apareçam mais inimigos...
+5 Pressione qualquer tecla para continuar...
+
+
+Fase 2:
+Texto 4
+1 Localizei a chave da minha nave
+2 no final deste corredor.
+3 Preciso tomar bastante cuidado
+4 para recuperá-la...
+5 Pressione qualquer tecla para continuar...
+
+Texto 5
+1 Ufa... agora eu já pos... ohhh nããooo...
+2 O Planeta Z137 iniciou sequência de autodestruição!
+3 Preciso ir para a área externa,
+4 antes que seja tarde demais!
+5 Pressione qualquer tecla para continuar...
+
+
+Fase 3:
+Texto 6
+1 Minha nave está aqui no topo...
+2 Preciso chegar lá antes
+3 que a lava me alcance e
+4 eu vire material de reciclagem!
+5 Pressione qualquer tecla para continuar...
+
+Texto 7
+1 Missão ao Planeta Z137 concluída!
+2 Robô R17 retornando à base de operações.
+3 Obrigado e  até o próximo desafio!
+4
+5 Pressione qualquer tecla para jogar novamente...
